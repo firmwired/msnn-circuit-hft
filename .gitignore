@@ -1,1 +1,7 @@
 /notebooks/data/published/*
+*.txt
+*.log
+*.raw
+*.plt
+*.op.raw
+*.json
