@@ -5,3 +5,6 @@
 *.plt
 *.op.raw
 *.json
+*.pdf
+*.csv
+paper/*
